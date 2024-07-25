@@ -23,6 +23,7 @@
           type="submit"
           outlined
         />
+        </div>
         <div class="full-width">
           <q-btn
           label="Register"
@@ -31,10 +32,7 @@
           to="/register"
           flat
         />
-        </div>
-        </div>
-
-        
+        </div>           
       </div>
     </q-form>
   </q-page>
